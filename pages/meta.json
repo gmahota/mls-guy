@@ -1,7 +1,10 @@
 {
-  "index": "Introduction",
-  "get-started": "Get Started",
-  "features": "Features",
-  "themes": "Themes",
-  "advanced": "Advanced"
+  "index": "Introdução",
+  "cereais": "Cereais",
+  "proteinas": "Proteinas",
+  "vitaminas": "Vitaminas e Minerais",
+  "temperos":"Temperos e outros" ,
+  "Opcoes":"Opções", 
+  "Combinacoes":"Como combinar"
+  
 }
